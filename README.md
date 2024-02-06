@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paulmrice-72
 - 👀 I’m interested in web development, creating and integrating APIs, and Fantasy Football
-- 🌱 I’m currently learning C#, Razor, Web APIs, and React.
+- 🌱 I’m currently learning C#, Blazor, Web APIs, and React.
 - 💞️ I’m looking to collaborate on anything I can be helpful with.
 - 📫 How to reach me - if you want to find me bad enough you can.
 - 😄 Pronouns: seriously?
